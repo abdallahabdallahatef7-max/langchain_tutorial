@@ -1,0 +1,12 @@
+langchain
+langchain_openai
+langchain_community
+python-dotenv
+grandalf
+pypdf
+jq
+Unstructured[pdf, csv, txt, json]
+langchain_google_genai
+chromadb
+faiss-cpu
+rank_bm25
